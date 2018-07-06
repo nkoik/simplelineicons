@@ -1,4 +1,7 @@
 # Simple Line Icons as a Vue Component
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce117e5563a14a49b560e407b8d81e8b)](https://app.codacy.com/app/nkoik/simplelineicons?utm_source=github.com&utm_medium=referral&utm_content=nkoik/simplelineicons&utm_campaign=badger)
+
 This is a Vue wrapper component for simple line icons fonts.
 https://github.com/thesabbir/simple-line-icons/
 
